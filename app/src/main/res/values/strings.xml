@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Live Chat App</string>
+
+    <string name="username_title">Username</string>
+    <string name="chatroom_name_title">Chat Room Name</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="chat_box_hint">Start Chatting!</string>
+
+    <!--<string name="hello_world">Hello world!</string>-->
+</resources>

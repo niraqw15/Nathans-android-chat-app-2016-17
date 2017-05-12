@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "187047853689",
+    "firebase_url": "https://android-live-chat-app-4a193.firebaseio.com",
+    "project_id": "android-live-chat-app-4a193",
+    "storage_bucket": "android-live-chat-app-4a193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187047853689:android:9d559d340ca75eed",
+        "android_client_info": {
+          "package_name": "com.example.livechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187047853689-62fo4a9uue2crikmc1dpdp83c6e4h0td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": XXX }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
